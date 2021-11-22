@@ -1,0 +1,10 @@
+image\ProxyImage.class
+mail_sender\Gender.class
+mail_sender\MailSender.class
+image\RealImage.class
+mail_sender\Client.class
+mail_sender\MailInfo.class
+image\Image.class
+mail_sender\Client$ClientIDGenerator.class
+mail_sender\MailBox.class
+mail_sender\MailCode.class
